@@ -1,0 +1,7 @@
+Dataset
+
+Source: Code Metrics Dataset - Software Project Structure (Kaggle)
+Rows: 509,426
+Columns: 53
+Features include: cbo, fanin, fanout, wmc, loc, lcom, loopQty, assignmentsQty, modifiers, and many more.
+Missing values handled for: lcom*, tcc, lcc
