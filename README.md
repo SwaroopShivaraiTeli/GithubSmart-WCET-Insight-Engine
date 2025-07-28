@@ -42,7 +42,7 @@ Waterfall plot (case-wise impact)
 
 How to Run
 Clone the repository
-git clone https://github.com/yourusername/smart-wcet-insight-engine.git
+git clone [https://github.com/yourusername/smart-wcet-insight-engine.git](https://github.com/SwaroopShivaraiTeli/GithubSmart-WCET-Insight-Engine)
 cd smart-wcet-insight-engine
 
 Install dependencies
@@ -62,17 +62,8 @@ Streamlit
 XGBoost, Ridge, LinearRegression
 
 Sample Input Format (CSV)
-Use the same structure as the dataset with the following:
+present in the folde names template_input
 
-Exclude: loopQty, WCET
-
-Include: all other numeric columns
-
-Sample CSV snippet:
-
-refactoring,cbo,cboModified,fanin,fanout,...,uniqueWordsQty,modifiers,logStatementsQty
-1,4,4,0,4,...,55,1,0
-1,6,7,1,6,...,50,1,0
 ...
 Notes
 Only non-trivial methods with loops are included.
@@ -84,3 +75,4 @@ WCET is generated synthetically using domain-informed logic.
 Author
 Swaroop S. Teli
 MSc Data Science, Applied AI & Systems
+www.linkedin.com/in/swaroop-teli-840896214
