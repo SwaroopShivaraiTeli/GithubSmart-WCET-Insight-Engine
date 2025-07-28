@@ -42,7 +42,7 @@ Waterfall plot (case-wise impact)
 
 How to Run
 Clone the repository
-git clone [https://github.com/yourusername/smart-wcet-insight-engine.git](https://github.com/SwaroopShivaraiTeli/GithubSmart-WCET-Insight-Engine)
+git clone [https://github.com/SwaroopShivaraiTeli/GithubSmart-WCET-Insight-Engine]
 cd smart-wcet-insight-engine
 
 Install dependencies
