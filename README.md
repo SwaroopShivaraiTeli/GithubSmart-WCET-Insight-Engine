@@ -62,7 +62,7 @@ Streamlit
 XGBoost, Ridge, LinearRegression
 
 Sample Input Format (CSV)
-present in the folde names template_input
+present in the folder named as "template_input"
 
 ...
 Notes
