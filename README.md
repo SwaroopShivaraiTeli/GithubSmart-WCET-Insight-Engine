@@ -23,7 +23,8 @@ Explainability: SHAP TreeExplainer with Waterfall and Beeswarm plots
 
 Stage 2: WCET Prediction
 Input: All features from Stage 1 plus predicted loopQty
-Target: Simulated WCET = 3.5 * loopQty + 0.8 * assignmentsQty + noise
+Target: Simulated WCET = 3.5 * loopQty + 0.8 * assignmentsQty + noise #synthetic equation, not real-time embedded timing.
+
 Best Model: DecisionTreeRegressor (R² = 0.9824)
 
 Saved Models:
